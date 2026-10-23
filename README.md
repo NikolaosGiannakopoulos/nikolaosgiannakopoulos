@@ -1,63 +1,52 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=nikolaosgiannakopoulos&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222082749%3Fu%3Dfd8402eacca10176bb668952ecc60f8743655796%26v%3D4" alt="nikolaosgiannakopoulos hero visual" />
-</p>
+<h1 align="center">Hi 👋, I'm Nikolaos</h1>
+<h3 align="center">Backend & Systems Engineer | Building in public on GitHub</h3>
 
-<p align="center"><b>nikolaosgiannakopoulos</b> · Backend or systems engineer<br/><sub>Building in public on GitHub.</sub></p>
-
-<p align="center"><a href="https://github.com/nikolaosgiannakopoulos">GitHub</a></p>
-
-<details open>
-<summary><b>📌 Top projects</b></summary>
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=nikolaosgiannakopoulos&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222082749%3Fu%3Dfd8402eacca10176bb668952ecc60f8743655796%26v%3D4" alt="nikolaosgiannakopoulos projects visual" />
+  <a href="https://github.com/NikolaosGiannakopoulos">
+    <img src="https://komarev.com/ghpvc/?username=nikolaosgiannakopoulos&color=00ff66&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 </p>
 
-- [chromaloom-api](https://github.com/NikolaosGiannakopoulos/chromaloom-api) · ★ 0 — The core engine of ChromaLoom: A high-performance .NET API meticulously weaving together professiona
+---
 
-</details>
+### 📌 Top Projects
 
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
+- **[chromaloom-api](https://github.com/NikolaosGiannakopoulos/chromaloom-api)** — The core backend engine for ChromaLoom: A high-performance .NET API built with clean architecture, Docker, and enterprise best practices.
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=nikolaosgiannakopoulos&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222082749%3Fu%3Dfd8402eacca10176bb668952ecc60f8743655796%26v%3D4" alt="nikolaosgiannakopoulos stack visual" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-</details>
+---
 
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
-
-<b>1</b> public repositories, <b>0</b> stars, <b>2</b> contributions in the last year, a longest streak of <b>1</b> days and <b>1</b> followers.
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=nikolaosgiannakopoulos&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222082749%3Fu%3Dfd8402eacca10176bb668952ecc60f8743655796%26v%3D4" alt="nikolaosgiannakopoulos stats visual" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nikolaosgiannakopoulos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaosgiannakopoulos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
-</details>
+---
 
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
+### 🟩 Contribution Heatmap
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=nikolaosgiannakopoulos&theme=neon" alt="nikolaosgiannakopoulos contribution activity" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaosgiannakopoulos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-</details>
+---
 
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=nikolaosgiannakopoulos&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F222082749%3Fu%3Dfd8402eacca10176bb668952ecc60f8743655796%26v%3D4" alt="nikolaosgiannakopoulos social visual" />
-</p>
-
-</details>
-
-<p align="center"><sub>nikolaosgiannakopoulos · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+### Say Hello 👋
+- GitHub: [@nikolaosgiannakopoulos](https://github.com/nikolaosgiannakopoulos)
